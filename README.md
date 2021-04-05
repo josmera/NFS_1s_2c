@@ -1,7 +1,7 @@
 ## NFS_1s_2c
 
 
-Este repositorio muestra como aprovisionar automaticamente un servidor NFS y dos clientes NFS.
+Este repositorio muestra como aprovisionar de manera automática un servidor NFS y dos clientes NFS.
 
 Basado en https://www.tecmint.com/install-nfs-server-on-ubuntu/
 
