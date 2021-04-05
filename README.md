@@ -33,8 +33,8 @@ Ejecutar desde el bash:
 
 <code>
   
-  > vagrant box add ubuntu/xenial64  
+  vagrant box add ubuntu/xenial64  
   
-  > vagrant up
+  vagrant up
   
 </code>
