@@ -28,4 +28,4 @@ https://www.vagrantup.com/docs/installation
 
 Ejecutar desde el bash:
 
-´vagrant up´
+<code>vagrant up</code>
