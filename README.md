@@ -31,10 +31,6 @@ https://www.vagrantup.com/docs/installation
 
 Ejecutar desde el bash:
 
-<code>
-  
-  vagrant box add ubuntu/xenial64  
-  
-  vagrant up
-  
-</code>
+<code>vagrant box add ubuntu/xenial64</code>
+
+<code>vagrant up</code>
