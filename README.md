@@ -25,10 +25,16 @@ Algunas instrucciones aquí:
 
 https://www.vagrantup.com/docs/installation
 
-2. Clonar el repositorio
+3. Clonar el repositorio
 
-3. Para Ubuntu 20.04
+4. Para Ubuntu 20.04
 
 Ejecutar desde el bash:
 
-<code>vagrant up</code>
+<code>
+  
+  >> vagrant box add ubuntu/xenial64  
+  
+  >> vagrant up
+  
+</code>
