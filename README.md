@@ -1,4 +1,4 @@
-# NFS_1s_2c
+## NFS_1s_2c
 
 
 Este repositorio muestra como aprovisionar automaticamente un servidor NFS y dos clientes NFS
@@ -28,4 +28,4 @@ https://www.vagrantup.com/docs/installation
 
 Ejecutar desde el bash:
 
->> vagrant up
+<vagrant up>
